@@ -9,6 +9,8 @@ import java.util.HashMap;
 /**
  * Created by LaunchCode
  */
+// displays the home page for the app
+
 @Controller
 public class HomeController {
 
